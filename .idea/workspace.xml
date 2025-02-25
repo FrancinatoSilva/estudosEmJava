@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="94c9db51-b239-4e30-8452-5513fff3f272" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/domain/Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pooNelio/aprendendoPoo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/domain/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pooNelio/ProblemaEx02.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -24,11 +24,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2tUtYNZuRfByW8vMxSanMkTQKBD" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -40,6 +42,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/ireno/Documents/Projetos Java/estudosEmJava",
     "onboarding.tips.debug.path": "C:/Users/ireno/Documents/Projetos Java/estudosEmJava/src/Main.java"
   }
 }]]></component>
