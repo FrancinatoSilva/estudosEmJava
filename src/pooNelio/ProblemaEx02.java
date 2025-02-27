@@ -21,7 +21,24 @@ public class ProblemaEx02 {
         System.out.print("Quantity in stock: ");
         product.quantity = sc.nextInt();
 
-        System.out.println(product);
+        System.out.println();
+        System.out.println("Product data: " + product);
+
+        System.out.println();
+        System.out.print("Enter the number of products to be added in stock: ");
+        int quantity = sc.nextInt();
+        product.addProduct(quantity);
+
+        System.out.println();
+        System.out.println("updated data: " + product);
+
+        System.out.println();
+        System.out.print("Enter the number of products to be removed in stock: ");
+        quantity = sc.nextInt();
+        product.removeProducts(quantity);
+
+        System.out.println();
+        System.out.println("Updated data: " + product);
 
 
         sc.close();
