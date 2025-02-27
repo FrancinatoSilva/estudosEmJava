@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="94c9db51-b239-4e30-8452-5513fff3f272" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/domain/Retangulo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pooNelio/problemaRetangulo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pooNelio/ProblemaEx02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/pooNelio/ProblemaEx02.java" afterDir="false" />
-    </list>
+    <list default="true" id="94c9db51-b239-4e30-8452-5513fff3f272" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,7 +38,7 @@
     "Application.problemaRetangulo.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
+    "git-widget-placeholder": "metodos001",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/ireno/Documents/Projetos Java/estudosEmJava",
     "onboarding.tips.debug.path": "C:/Users/ireno/Documents/Projetos Java/estudosEmJava/src/Main.java"
