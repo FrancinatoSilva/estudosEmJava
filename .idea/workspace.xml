@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="94c9db51-b239-4e30-8452-5513fff3f272" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/domain/Funcionario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pooNelio/problemaFuncionario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/domain/Estudante.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pooNelio/problemaEstudante.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,6 +39,7 @@
   "keyToString": {
     "Application.ProblemaEx02.executor": "Run",
     "Application.aprendendoPoo.executor": "Run",
+    "Application.problemaEstudante.executor": "Run",
     "Application.problemaFuncionario.executor": "Run",
     "Application.problemaRetangulo.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
