@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="94c9db51-b239-4e30-8452-5513fff3f272" name="Changes" comment="" />
+=======
+    <list default="true" id="94c9db51-b239-4e30-8452-5513fff3f272" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/domain/Paciente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exerciciosDeLogica/calculandoImc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+>>>>>>> metodos001
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,6 +39,7 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+<<<<<<< HEAD
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;Application.ProblemaEx02.executor&quot;: &quot;Run&quot;,
@@ -41,6 +50,22 @@
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/ireno/Documents/Projetos Java/estudosEmJava&quot;,
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/ireno/Documents/Projetos Java/estudosEmJava/src/Main.java&quot;
+=======
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.ProblemaEx02.executor": "Run",
+    "Application.aprendendoPoo.executor": "Run",
+    "Application.calculandoImc.executor": "Run",
+    "Application.problemaEstudante.executor": "Run",
+    "Application.problemaFuncionario.executor": "Run",
+    "Application.problemaRetangulo.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "metodos001",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/ireno/Documents/Projetos Java/estudosEmJava",
+    "onboarding.tips.debug.path": "C:/Users/ireno/Documents/Projetos Java/estudosEmJava/src/Main.java"
+>>>>>>> metodos001
   }
 }</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
