@@ -15,6 +15,7 @@ public class teste {
         int matricula = sc.nextInt();
 
         Aluno aluno = new Aluno(name, matricula);
+        aluno.setName(name);
 
         System.out.println(aluno.getName());
 

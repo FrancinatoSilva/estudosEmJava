@@ -5,26 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cad201fc-80d0-4fd4-9e5c-f3226af1ac65" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/get_e_set/Aluno.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/get_e_set/teste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/get_e_set/Livro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/get_e_set/testLivro.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/domain/ConversorMoeda.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/domain/Estudante.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/domain/Funcionario.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/domain/Paciente.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/domain/Product.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/domain/Retangulo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/domain/Triangle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exerciciosDeLogica/calculandoImc.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/models/Conta.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pooNelio/ProblemaEx02.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pooNelio/aprendendoPoo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pooNelio/problemaEstudante.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pooNelio/problemaFuncionario.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pooNelio/problemaMoeda.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pooNelio/problemaRetangulo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/poo_2/exercicioSecao_9.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/get_e_set/Aluno.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/get_e_set/Aluno.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/get_e_set/teste.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/get_e_set/teste.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +42,7 @@
   "keyToString": {
     "Application.exercicioSecao_9.executor": "Run",
     "Application.problemaMoeda.executor": "Run",
+    "Application.testLivro.executor": "Run",
     "Application.teste.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",

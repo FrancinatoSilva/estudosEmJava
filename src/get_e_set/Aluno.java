@@ -10,7 +10,7 @@ public class Aluno {
         this.matricula = matricula;
     }
 
-    public String Getname() {
+    public String getName() {
         return name;
     }
 
