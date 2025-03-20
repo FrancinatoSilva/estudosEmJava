@@ -40,12 +40,12 @@ public class Livro {
     public void setAnoDePublicacao(int anoDePublicacao) {
         if (anoDePublicacao < 0) {
             System.out.println("Data inválida!");
-        } else{
-        this.anoDePublicacao = anoDePublicacao;
+        } else {
+            this.anoDePublicacao = anoDePublicacao;
         }
     }
 
-    public double getPreoco() {
+    public double getPreco() {
         return preco;
     }
 
