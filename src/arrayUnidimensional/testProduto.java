@@ -12,13 +12,14 @@ public class testProduto {
 
         System.out.print("Quantidade de produtos: ");
         int quantidadeProdutos = sc.nextInt();
-        sc.nextLine();
 
         Produto[] produtos = new Produto[quantidadeProdutos];
 
         for (int i = 0; i < quantidadeProdutos; i++) {
+            sc.nextLine();
             System.out.print("Nome do produto " + (i+1) + ": ");
             String nome = sc.nextLine();
+            System.out.print("Preço do produto " + (i+1) + ": ");
             double preco = sc.nextDouble();
             produtos[i] = new Produto(nome, preco);
         }
@@ -30,10 +31,9 @@ public class testProduto {
 
         double mediaPrecos = somaProdutos / quantidadeProdutos;
 
-        System.out.printf("A média de valor dos produtos informados entre os produtos"
-        + " informados é R$%2.f", mediaPrecos);
+        System.out.printf("Média de preço: R$%.2f", mediaPrecos);
 
         sc.close();
-        //esse código ta quebrado, foque apenas na sintaxe.
+
     }
 }
