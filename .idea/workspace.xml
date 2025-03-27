@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cad201fc-80d0-4fd4-9e5c-f3226af1ac65" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/arrayUnidimensional/Pessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrayUnidimensional/alturas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrayUnidimensional/maiorPosicao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrayUnidimensional/negativos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrayUnidimensional/numerosPares.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrayUnidimensional/somaVetor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrayUnidimensional/abaixoDaMedia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrayUnidimensional/mediaPares.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrayUnidimensional/somaVetores.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,14 +39,17 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.abaixoDaMedia.executor": "Run",
     "Application.alturas.executor": "Run",
     "Application.ex001.executor": "Run",
     "Application.exercicioSecao_9.executor": "Run",
     "Application.maiorPosicao.executor": "Run",
+    "Application.mediaPares.executor": "Run",
     "Application.negativos.executor": "Run",
     "Application.numerosPares.executor": "Run",
     "Application.problemaMoeda.executor": "Run",
     "Application.somaVetor.executor": "Run",
+    "Application.somaVetores.executor": "Run",
     "Application.testContaB.executor": "Run",
     "Application.testLivro.executor": "Run",
     "Application.testPessoa.executor": "Run",
