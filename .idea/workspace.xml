@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cad201fc-80d0-4fd4-9e5c-f3226af1ac65" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/arrayUnidimensional/dadosPessoais.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrayUnidimensional/maisVelho.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrayUnidimensional/Pensionato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrayUnidimensional/testPensionato.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/arrayUnidimensional/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrayUnidimensional/Pessoa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/arrayUnidimensional/maiorPosicao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arrayUnidimensional/maiorPosicao.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +53,7 @@
     "Application.somaVetores.executor": "Run",
     "Application.testContaB.executor": "Run",
     "Application.testLivro.executor": "Run",
+    "Application.testPensionato.executor": "Run",
     "Application.testPessoa.executor": "Run",
     "Application.testProduto.executor": "Run",
     "Application.testRoboExplorador.executor": "Run",
@@ -64,7 +63,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/ireno/Documents/Projetos Java/TesteNivelamentoJava",
+    "last_opened_file_path": "C:/Users/ireno/Documents/Projetos Java/estudosEmJava",
     "settings.editor.selected.configurable": "terminal"
   }
 }]]></component>
