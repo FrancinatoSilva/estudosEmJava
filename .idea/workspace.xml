@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cad201fc-80d0-4fd4-9e5c-f3226af1ac65" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/arrayUnidimensional/Pensionato.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arrayUnidimensional/testPensionato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrayList/Funcionario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/arrayList/testFuncionario.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,6 +52,7 @@
     "Application.somaVetor.executor": "Run",
     "Application.somaVetores.executor": "Run",
     "Application.testContaB.executor": "Run",
+    "Application.testFuncionario.executor": "Run",
     "Application.testLivro.executor": "Run",
     "Application.testPensionato.executor": "Run",
     "Application.testPessoa.executor": "Run",
