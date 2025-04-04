@@ -37,7 +37,7 @@ public class testFuncionario {
         System.out.print("Digite o ID do funcionário que recebera aumento:");
         int idInformado = sc.nextInt();
 
-        //Continue o aulão do Nélio 28:35
+        //exercício imcompleto, crie um projeto utilizando Lista no fim de semana.
 
 
         sc.close();
