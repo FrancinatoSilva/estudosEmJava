@@ -24,6 +24,7 @@ public class App {
             opcao = sc.nextInt();
             sc.nextLine();
 
+
             switch (opcao) {
                 case 1:
                     System.out.print("Informe o nome do item:");
