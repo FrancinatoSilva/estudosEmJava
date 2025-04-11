@@ -5,15 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cad201fc-80d0-4fd4-9e5c-f3226af1ac65" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/cadastrodeveiculos/Carro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cadastrodeveiculos/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cadastrodeveiculos/Moto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cadastrodeveiculos/Veiculo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lojadeprodutos/Eletronico.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lojadeprodutos/Livro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lojadeprodutos/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lojadeprodutos/Produto.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cadastrodeveiculos/Carro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cadastrodeveiculos/Carro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cadastrodeveiculos/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cadastrodeveiculos/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cadastrodeveiculos/Moto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cadastrodeveiculos/Moto.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
