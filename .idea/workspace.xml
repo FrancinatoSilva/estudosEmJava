@@ -5,10 +5,66 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cad201fc-80d0-4fd4-9e5c-f3226af1ac65" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/loiane/javabasico/poo/aula24/Carro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/loiane/javabasico/poo/aula24/exercicios/ContaCorrente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/loiane/javabasico/poo/aula24/exercicios/Contato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/loiane/javabasico/poo/aula24/exercicios/Lampada.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/loiane/javabasico/poo/aula24/exercicios/Livro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/loiane/javabasico/poo/aula24/exercicios/LivroDeBiblioteca.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/loiane/javabasico/poo/aula24/exercicios/LivroDeLivraria.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/loiane/javabasico/poo/aula24/exercicios/ex01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/loiane/javabasico/poo/aula24/exercicios/ex02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/loiane/javabasico/poo/aula24/exercicios/ex03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/loiane/javabasico/poo/aula24/exercicios/ex04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/loiane/javabasico/poo/aula24/exercicios/ex05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/loiane/javabasico/poo/aula24/exercicios/ex06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/loiane/javabasico/poo/aula24/testCarro.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cadastrodeveiculos/Carro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cadastrodeveiculos/Carro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cadastrodeveiculos/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cadastrodeveiculos/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cadastrodeveiculos/Moto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/cadastrodeveiculos/Moto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arrayList/Funcionario.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arrayList/testFuncionario.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arrayUnidimensional/Pensionato.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arrayUnidimensional/Pessoa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arrayUnidimensional/Produto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arrayUnidimensional/abaixoDaMedia.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arrayUnidimensional/alturas.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arrayUnidimensional/dadosPessoais.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arrayUnidimensional/ex001.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arrayUnidimensional/maiorPosicao.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arrayUnidimensional/maisVelho.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arrayUnidimensional/mediaPares.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arrayUnidimensional/negativos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arrayUnidimensional/numerosPares.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arrayUnidimensional/somaVetor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arrayUnidimensional/somaVetores.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arrayUnidimensional/testPensionato.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arrayUnidimensional/testProduto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/arraybidimensional/PercorrerMatriz.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cadastrodefuncionarios/Desenvolvedor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cadastrodefuncionarios/Funcionario.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cadastrodefuncionarios/Gerente.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cadastrodefuncionarios/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cadastrodeveiculos/Carro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cadastrodeveiculos/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cadastrodeveiculos/Moto.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cadastrodeveiculos/Veiculo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/gerenciamentoDeCompras/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/get_e_set/Aluno.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/get_e_set/ContaBancaria.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/get_e_set/Livro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/get_e_set/Pessoa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/get_e_set/RoboExplorador.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/get_e_set/testContaB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/get_e_set/testLivro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/get_e_set/testPessoa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/get_e_set/testRoboExplorador.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/get_e_set/teste.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/heranca/Account.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/heranca/BusinessAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lojadeprodutos/Eletronico.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lojadeprodutos/Livro.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lojadeprodutos/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lojadeprodutos/Produto.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
