@@ -1,4 +1,6 @@
-package com.loiane.javabasico.poo.aula24;
+package com.loiane.javabasico.poo.aula24.aula25;
+
+import com.loiane.javabasico.poo.aula24.aula25.Carro;
 
 public class testCarro {
     public static void main(String[] args) {
@@ -10,5 +12,11 @@ public class testCarro {
         van.numPassageiros = 10;
         van.capCombustivel = 100;
         van.consumoCombustivel = 0.2;
+
+    van.exibirAutonomia();
+
+    double autonomia = van.obterAutonomia();
+    System.out.println("A autonomia do carro é: " + autonomia);
+
     }
 }
