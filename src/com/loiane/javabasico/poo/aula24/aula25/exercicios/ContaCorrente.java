@@ -2,10 +2,10 @@ package com.loiane.javabasico.poo.aula24.aula25.exercicios;
 
 public class ContaCorrente {
 
-    int numero;
-    double saldo;
-    String status; //Conta especial ou não
-    double limite;
+    public int numero;
+    public double saldo;
+    public String status; //Conta especial ou não
+    public double limite;
 
     boolean verificandoPermissaoDeSaque() {
         return saldo > 0.00;
