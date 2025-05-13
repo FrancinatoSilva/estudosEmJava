@@ -4,33 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cad201fc-80d0-4fd4-9e5c-f3226af1ac65" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/logica/estruturadedados/DadosPessoas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/loiane/cursojava/aula29/Carro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/loiane/cursojava/aula29/TesteCarro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/loiane/javabasico/poo/aula24/aula25/Carro.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/loiane/javabasico/poo/aula24/aula25/exercicios/ContaCorrente.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/loiane/javabasico/poo/aula24/aula25/exercicios/ContaCorrenteApp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/loiane/javabasico/poo/aula24/aula25/exercicios/Lampada.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/loiane/javabasico/poo/aula24/aula25/exercicios/testLampada.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/loiane/javabasico/poo/aula24/aula25/testCarro.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/loiane/javabasico/poo/aula24/exercicios/ContaCorrente.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/loiane/javabasico/poo/aula24/exercicios/Contato.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/loiane/javabasico/poo/aula24/exercicios/Lampada.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/loiane/javabasico/poo/aula24/exercicios/Livro.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/loiane/javabasico/poo/aula24/exercicios/LivroDeBiblioteca.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/loiane/javabasico/poo/aula24/exercicios/LivroDeLivraria.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/loiane/javabasico/poo/aula24/exercicios/ex01.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/loiane/javabasico/poo/aula24/exercicios/ex02.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/loiane/javabasico/poo/aula24/exercicios/ex03.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/loiane/javabasico/poo/aula24/exercicios/ex04.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/loiane/javabasico/poo/aula24/exercicios/ex05.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/loiane/javabasico/poo/aula24/exercicios/ex06.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/loiane/javabasico/poo/aula24/logica/JogoAdivinha.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/loiane/javabasico/poo/aula24/logica/logica/nelio/estrutura/exVetor02.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/loiane/javabasico/poo/aula24/logica/logica/nelio/estrutura/vetor.java" beforeDir="false" />
-    </list>
+    <list default="true" id="cad201fc-80d0-4fd4-9e5c-f3226af1ac65" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,7 +35,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.App.executor": "Run",
-    "Application.DadosPessoas.executor": "Run",
+    "Application.DadosPessoas.executor": "Debug",
     "Application.JogoAdivinha.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.TestContaCorrente.executor": "Run",
@@ -108,5 +82,16 @@
       <updated>1741020490643</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/logica/estruturadedados/DadosPessoas.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
