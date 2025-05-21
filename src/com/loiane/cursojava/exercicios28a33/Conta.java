@@ -58,4 +58,15 @@ public class Conta {
         System.out.printf("Seu saldo atual é de R$%.2f", getSaldo());
         return getSaldo();
     }
+
+    public double depositarDinheiro(double valorDeDeposito) {
+        if (valorDeDeposito > getLimite()) {
+            System.out.println("O valor excede o limite da conta");
+        } else {
+            this.saldo += valorDeDeposito;
+        }
+        System.out.printf("Seu saldo atual é de R$%.2f", getSaldo());
+        return getSaldo();
+
+    }
 }

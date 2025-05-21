@@ -13,7 +13,6 @@ public class TesteConta {
 
         System.out.print("Número: ");
         int numero = sc.nextInt();
-        sc.nextLine();
 
         System.out.print("Saldo: ");
         double saldo = sc.nextDouble();
@@ -24,15 +23,18 @@ public class TesteConta {
 
         System.out.print("Limite: ");
         double limite = sc.nextDouble();
-        sc.nextLine();
 
         Conta contaTeste = new Conta(numero, saldo, status, limite);
 
         System.out.print("Quanto de dinheiro você deseja sacar: ");
         double valorDeSaque = sc.nextDouble();
-        sc.nextLine();
 
+        System.out.println("Quanto de dinheiro você deseja depositar: ");
+        double valorDeDeposito = sc.nextDouble();
         contaTeste.sacarDinheiro(valorDeSaque);
+
+        System.out.println();
+        contaTeste.depositarDinheiro(valorDeDeposito);
 
 
 
