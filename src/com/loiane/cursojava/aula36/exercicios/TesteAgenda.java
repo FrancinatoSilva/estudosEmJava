@@ -1,6 +1,5 @@
 package com.loiane.cursojava.aula36.exercicios;
 
-import java.util.Arrays;
 import java.util.Scanner;
 
 public class TesteAgenda {
