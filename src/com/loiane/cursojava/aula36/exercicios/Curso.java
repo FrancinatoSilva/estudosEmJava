@@ -55,4 +55,15 @@ public class Curso {
         this.alunos = alunos;
     }
 
+    public String obterInfo() {
+        String info = "Nome e Horário do curso: " + nome + horario + "\n";
+
+        if (alunos != null) {
+            for (Aluno a : alunos) {
+                info += obterInfo() + "\n";
+            }
+        }
+        return info;
+    }
+
 }

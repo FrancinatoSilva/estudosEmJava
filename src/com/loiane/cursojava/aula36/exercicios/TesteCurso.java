@@ -49,7 +49,7 @@ public class TesteCurso {
         }
         curso.setAlunos(a);
 
-        //O próximo passo é montar a lógica de exibir resultados.
+        //O próximo passo seria montar a lógica de exibir resultados.
 
         sc.close();
     }
