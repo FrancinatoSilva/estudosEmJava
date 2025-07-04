@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cad201fc-80d0-4fd4-9e5c-f3226af1ac65" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/nelio/Comerciante.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/nelio/Produto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/loiane/cursojava/exercicios36a43/Conta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/loiane/cursojava/exercicios36a43/Ex001.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,57 +36,57 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.App.executor": "Run",
-    "Application.Comerciante.executor": "Run",
-    "Application.DadosPessoas.executor": "Debug",
-    "Application.JogoAdivinha.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.NumerosPares.executor": "Run",
-    "Application.SomaVetores.executor": "Run",
-    "Application.TestContaCorrente.executor": "Run",
-    "Application.TesteAgenda.executor": "Run",
-    "Application.TesteConta.executor": "Run",
-    "Application.TesteContador.executor": "Run",
-    "Application.TesteCurso.executor": "Run",
-    "Application.abaixoDaMedia.executor": "Run",
-    "Application.alturas.executor": "Run",
-    "Application.dadosPessoais.executor": "Run",
-    "Application.esquentamente.executor": "Run",
-    "Application.ex001.executor": "Run",
-    "Application.exVetor02.executor": "Run",
-    "Application.exercicioSecao_9.executor": "Run",
-    "Application.logica.executor": "Run",
-    "Application.maiorPosicao.executor": "Run",
-    "Application.maisVelho.executor": "Run",
-    "Application.mediaPares.executor": "Run",
-    "Application.negativos.executor": "Run",
-    "Application.numerosPares.executor": "Run",
-    "Application.problemaMoeda.executor": "Run",
-    "Application.somaVetor.executor": "Run",
-    "Application.somaVetores.executor": "Run",
-    "Application.testContaB.executor": "Run",
-    "Application.testFuncionario.executor": "Run",
-    "Application.testLampada.executor": "Run",
-    "Application.testLivro.executor": "Run",
-    "Application.testPensionato.executor": "Run",
-    "Application.testPessoa.executor": "Run",
-    "Application.testProduto.executor": "Run",
-    "Application.testRoboExplorador.executor": "Run",
-    "Application.teste.executor": "Run",
-    "Application.vetor.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/ireno/Documents/Projetos Java/estudosEmJava",
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.App.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Comerciante.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DadosPessoas.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.JogoAdivinha.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NumerosPares.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SomaVetores.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestContaCorrente.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TesteAgenda.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TesteConta.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TesteContador.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TesteCurso.executor&quot;: &quot;Run&quot;,
+    &quot;Application.abaixoDaMedia.executor&quot;: &quot;Run&quot;,
+    &quot;Application.alturas.executor&quot;: &quot;Run&quot;,
+    &quot;Application.dadosPessoais.executor&quot;: &quot;Run&quot;,
+    &quot;Application.esquentamente.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ex001.executor&quot;: &quot;Run&quot;,
+    &quot;Application.exVetor02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.exercicioSecao_9.executor&quot;: &quot;Run&quot;,
+    &quot;Application.logica.executor&quot;: &quot;Run&quot;,
+    &quot;Application.maiorPosicao.executor&quot;: &quot;Run&quot;,
+    &quot;Application.maisVelho.executor&quot;: &quot;Run&quot;,
+    &quot;Application.mediaPares.executor&quot;: &quot;Run&quot;,
+    &quot;Application.negativos.executor&quot;: &quot;Run&quot;,
+    &quot;Application.numerosPares.executor&quot;: &quot;Run&quot;,
+    &quot;Application.problemaMoeda.executor&quot;: &quot;Run&quot;,
+    &quot;Application.somaVetor.executor&quot;: &quot;Run&quot;,
+    &quot;Application.somaVetores.executor&quot;: &quot;Run&quot;,
+    &quot;Application.testContaB.executor&quot;: &quot;Run&quot;,
+    &quot;Application.testFuncionario.executor&quot;: &quot;Run&quot;,
+    &quot;Application.testLampada.executor&quot;: &quot;Run&quot;,
+    &quot;Application.testLivro.executor&quot;: &quot;Run&quot;,
+    &quot;Application.testPensionato.executor&quot;: &quot;Run&quot;,
+    &quot;Application.testPessoa.executor&quot;: &quot;Run&quot;,
+    &quot;Application.testProduto.executor&quot;: &quot;Run&quot;,
+    &quot;Application.testRoboExplorador.executor&quot;: &quot;Run&quot;,
+    &quot;Application.teste.executor&quot;: &quot;Run&quot;,
+    &quot;Application.vetor.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ireno/Documents/Projetos Java/estudosEmJava&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
