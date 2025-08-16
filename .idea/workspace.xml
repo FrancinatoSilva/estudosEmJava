@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cad201fc-80d0-4fd4-9e5c-f3226af1ac65" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/esquenta/ValidarSenha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/esquenta/GeraPares.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/esquenta/JogueDado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/esquenta/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/esquenta/TestPessoa.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +45,9 @@
     "Application.Comerciante.executor": "Run",
     "Application.Contador.executor": "Run",
     "Application.DadosPessoas.executor": "Debug",
+    "Application.GeraPares.executor": "Run",
     "Application.JogoAdivinha.executor": "Run",
+    "Application.JogueDado.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.MaiorMenor.executor": "Run",
     "Application.Media.executor": "Run",
