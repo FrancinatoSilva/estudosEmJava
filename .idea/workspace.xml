@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cad201fc-80d0-4fd4-9e5c-f3226af1ac65" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/esquenta/TestForeach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/esquenta/TesteUsuario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/esquenta/Usuario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/biblioteca/ItemBiblioteca.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/biblioteca/Livro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/biblioteca/Revista.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/biblioteca/Usuario.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,6 +61,7 @@
     &quot;Application.TesteConta.executor&quot;: &quot;Run&quot;,
     &quot;Application.TesteContador.executor&quot;: &quot;Run&quot;,
     &quot;Application.TesteCurso.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TesteUsuario.executor&quot;: &quot;Run&quot;,
     &quot;Application.ValidarSenha.executor&quot;: &quot;Run&quot;,
     &quot;Application.VetorPares.executor&quot;: &quot;Run&quot;,
     &quot;Application.abaixoDaMedia.executor&quot;: &quot;Run&quot;,
