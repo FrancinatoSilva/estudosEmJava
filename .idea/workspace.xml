@@ -5,17 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cad201fc-80d0-4fd4-9e5c-f3226af1ac65" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/loiane/cursojava/exercicios44a46/Cilindro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/loiane/cursojava/exercicios44a46/Circulo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/loiane/cursojava/exercicios44a46/Cubo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/loiane/cursojava/exercicios44a46/DimensaoSuperficial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/loiane/cursojava/exercicios44a46/Figura2D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/loiane/cursojava/exercicios44a46/Figura3D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/loiane/cursojava/exercicios44a46/FiguraGeometrica.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/loiane/cursojava/exercicios44a46/Piramide.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/loiane/cursojava/exercicios44a46/Quadrado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/loiane/cursojava/exercicios44a46/Triangulo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/loiane/cursojava/exercicios44a46/DimensaoVolumetrica.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/loiane/cursojava/exercicios44a46/Cilindro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/loiane/cursojava/exercicios44a46/Cilindro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/loiane/cursojava/exercicios44a46/Circulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/loiane/cursojava/exercicios44a46/Circulo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/loiane/cursojava/exercicios44a46/Cubo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/loiane/cursojava/exercicios44a46/Cubo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/loiane/cursojava/exercicios44a46/DimensaoSuperficial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/loiane/cursojava/exercicios44a46/DimensaoSuperficial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/loiane/cursojava/exercicios44a46/Figura2D.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/loiane/cursojava/exercicios44a46/Figura2D.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/loiane/cursojava/exercicios44a46/Figura3D.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/loiane/cursojava/exercicios44a46/Figura3D.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/loiane/cursojava/exercicios44a46/Piramide.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/loiane/cursojava/exercicios44a46/Piramide.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/loiane/cursojava/exercicios44a46/Quadrado.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/loiane/cursojava/exercicios44a46/Quadrado.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/loiane/cursojava/exercicios44a46/Triangulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/loiane/cursojava/exercicios44a46/Triangulo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

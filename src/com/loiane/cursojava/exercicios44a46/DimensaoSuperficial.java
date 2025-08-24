@@ -1,4 +1,7 @@
 package com.loiane.cursojava.exercicios44a46;
 
 public interface DimensaoSuperficial {
+
+    double calcularArea();
+
 }
